@@ -1,3 +1,3 @@
-module belajar-golang-standard-library
+module belajar-golang-unit-test
 
 go 1.21.6
